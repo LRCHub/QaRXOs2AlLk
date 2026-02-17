@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Nothing's Clear",
+  "base_artist": "Ill Nino",
+  "createdAt": "2026-02-17T15:11:22.975952Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nothing's Clear",
+      "artist": "Ill Niño",
+      "has_synced": true,
+      "path": "select/01_Nothing's_Clear_Ill_Niño.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nothing's Clear",
+      "artist": "Ill Niño",
+      "has_synced": true,
+      "path": "select/02_Nothing's_Clear_Ill_Niño.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nothings Clear (Demo)",
+      "artist": "Ill Niño",
+      "has_synced": false,
+      "path": "select/03_Nothings_Clear_(Demo)_Ill_Niño.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nothing's Clear",
+      "artist": "Bodyjar",
+      "has_synced": false,
+      "path": "select/04_Nothing's_Clear_Bodyjar.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nothing's Clear",
+      "artist": "Ill Ni�o",
+      "has_synced": true,
+      "path": "select/05_Nothing's_Clear_Ill_Ni�o.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nothing's Clear",
+      "artist": "Ill Nino",
+      "has_synced": true,
+      "path": "select/06_Nothing's_Clear_Ill_Nino.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nothing's Clear (Album Version)",
+      "artist": "Ill Niño",
+      "has_synced": true,
+      "path": "select/07_Nothing's_Clear_(Album_Version)_Ill_Niño.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nothing's Clear",
+      "artist": "Ill Niño",
+      "has_synced": false,
+      "path": "select/pl_01_Nothing's_Clear_Ill_Niño.txt"
+    }
+  ]
+}
